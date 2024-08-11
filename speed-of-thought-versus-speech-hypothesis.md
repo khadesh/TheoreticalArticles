@@ -1,4 +1,5 @@
 # The Speed of Thought Versus Speech Hypothesis: A Theoretical Exploration
+by Eric G
 
 The Speed of Thought Versus Speech Hypothesis suggests that language acquisition yields significantly different outcomes when the primary learning method is reading as opposed to listening and interaction. The hypothesis asserts that while the human brain processes grammatical structures similarly for both reading and listening, the rate at which this occurs can be considerably faster in reading than in listening. This is attributed to the inherent limitation in the speed of spoken language, while reading has no such speed constraints.
 
